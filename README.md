@@ -4,7 +4,7 @@ implementation of ken perlin's noise.
 
 # installation
 
-`npm i perlin-noise --save`
+`npm i noise-perlin --save`
 
 # usage
 
