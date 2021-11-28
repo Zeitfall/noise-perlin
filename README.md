@@ -11,7 +11,7 @@ implementation of ken perlin's noise.
 ```
 perlin(
 	*float number*,		// required float number
-	*optional*,			// 0 or float number for 2D 
-	*optional*			// 0 or float number for 3D 
+	*optional*,		// 0 or float number for 2D 
+	*optional*		// 0 or float number for 3D 
 );
 ```
